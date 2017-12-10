@@ -1,0 +1,95 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Dimension"
+provides-nominal:
+- "11Cartography9DimensionV"
+provides-member:
+- ["11Cartography9DimensionV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Addition"
+- "AssignmentPrecedence"
+- "Context"
+- "Dimension"
+- "LayoutAttribute"
+- "Multiplication"
+- "NumericalEquality"
+- "NumericalInequality"
+- "Property"
+- "RelativeEquality"
+- "RelativeInequality"
+- "View"
+depends-member:
+- ["11Cartography8AdditionP", "attribute"]
+- ["11Cartography8AdditionP", "context"]
+- ["11Cartography8AdditionP", "view"]
+- ["11Cartography8AdditionP", ""]
+- ["11Cartography9DimensionV", "Context"]
+- ["11Cartography9DimensionV", "LayoutAttribute"]
+- ["11Cartography9DimensionV", "View"]
+- ["11Cartography9DimensionV", "attribute"]
+- ["11Cartography9DimensionV", "context"]
+- ["11Cartography9DimensionV", "deinit"]
+- ["11Cartography9DimensionV", "init"]
+- ["11Cartography9DimensionV", "view"]
+- ["11Cartography14MultiplicationP", "attribute"]
+- ["11Cartography14MultiplicationP", "context"]
+- ["11Cartography14MultiplicationP", "view"]
+- ["11Cartography14MultiplicationP", ""]
+- ["11Cartography17NumericalEqualityP", "attribute"]
+- ["11Cartography17NumericalEqualityP", "context"]
+- ["11Cartography17NumericalEqualityP", "view"]
+- ["11Cartography17NumericalEqualityP", ""]
+- ["11Cartography19NumericalInequalityP", "attribute"]
+- ["11Cartography19NumericalInequalityP", "context"]
+- ["11Cartography19NumericalInequalityP", "view"]
+- ["11Cartography19NumericalInequalityP", ""]
+- ["11Cartography8PropertyP", "attribute"]
+- ["11Cartography8PropertyP", "context"]
+- ["11Cartography8PropertyP", "view"]
+- ["11Cartography8PropertyP", ""]
+- ["11Cartography16RelativeEqualityP", "attribute"]
+- ["11Cartography16RelativeEqualityP", "context"]
+- ["11Cartography16RelativeEqualityP", "view"]
+- ["11Cartography16RelativeEqualityP", ""]
+- ["11Cartography18RelativeInequalityP", "attribute"]
+- ["11Cartography18RelativeInequalityP", "context"]
+- ["11Cartography18RelativeInequalityP", "view"]
+- ["11Cartography18RelativeInequalityP", ""]
+depends-nominal:
+- "11Cartography8AdditionP"
+- "11Cartography9DimensionV"
+- "11Cartography14MultiplicationP"
+- "11Cartography17NumericalEqualityP"
+- "11Cartography19NumericalInequalityP"
+- "11Cartography8PropertyP"
+- "11Cartography16RelativeEqualityP"
+- "11Cartography18RelativeInequalityP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/andretill/Downloads/Presentation-master/Example/Parallax/Pods/Target Support Files/Cartography/Cartography-umbrella.h"
+- "/Users/andretill/Downloads/Presentation-master/Example/Parallax/DerivedData/Parallax/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Cartography.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "44a6dda573f34daef36bba42e8975e84"

@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "e2ebd22fee31b05615d693d507c2fbc4"
+build_time: [1512921203, 760976000]
+inputs:
+  "/Users/andretill/Downloads/Presentation-master/Example/Parallax/Pods/Pages/Source/Array+Sugar.swift": [1512918681, 0]
+  "/Users/andretill/Downloads/Presentation-master/Example/Parallax/Pods/Pages/Source/PagesController.swift": [1512918681, 0]
+  "/Users/andretill/Downloads/Presentation-master/Example/Parallax/Pods/Pages/Source/UIStoryboard+Sugar.swift": [1512918681, 0]

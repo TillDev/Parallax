@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "70cf54159755772523fd80170b4ba938"
+build_time: [1512921208, 162171000]
+inputs:
+  "/Users/andretill/Downloads/Presentation-master/Source/Animations/Animatable.swift": [1506945744, 0]
+  "/Users/andretill/Downloads/Presentation-master/Source/Extensions/CGPointExtension.swift": [1506945744, 0]
+  "/Users/andretill/Downloads/Presentation-master/Source/Content.swift": [1506945744, 0]
+  "/Users/andretill/Downloads/Presentation-master/Source/Animations/DissolveAnimation.swift": [1506945744, 0]
+  "/Users/andretill/Downloads/Presentation-master/Source/Animations/PopAnimation.swift": [1506945744, 0]
+  "/Users/andretill/Downloads/Presentation-master/Source/Position.swift": [1506945744, 0]
+  "/Users/andretill/Downloads/Presentation-master/Source/PresentationController.swift": [1506945744, 0]
+  "/Users/andretill/Downloads/Presentation-master/Source/SlideController.swift": [1506945744, 0]
+  "/Users/andretill/Downloads/Presentation-master/Source/Animations/TransitionAnimation.swift": [1506945744, 0]

@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "2e4e21617eda6ab534e378a8db165cf7"
+build_time: [1512921193, 854990000]
+inputs:
+  "/Users/andretill/Downloads/Presentation-master/Example/Parallax/Pods/Hue/Source/iOS/UIColor+Hue.swift": [1512918664, 0]
+  "/Users/andretill/Downloads/Presentation-master/Example/Parallax/Pods/Hue/Source/iOS/UIImage+Hue.swift": [1512918664, 0]

@@ -1,0 +1,248 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "LayoutProxy"
+provides-nominal:
+- "11Cartography11LayoutProxyV"
+provides-member:
+- ["11Cartography11LayoutProxyV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "Array"
+- "AssignmentPrecedence"
+- "Context"
+- "Dimension"
+- "Edge"
+- "Edges"
+- "LayoutProxy"
+- "Point"
+- "Size"
+- "View"
+depends-member:
+- !private ["11Cartography8AdditionP", "init"]
+- !private ["So15CALayerDelegateP", "superview"]
+- !private ["s7CVarArgP", "superview"]
+- !private ["11Cartography8CompoundP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "superview"]
+- !private ["s23CustomStringConvertibleP", "superview"]
+- !private ["11Cartography9DimensionV", "deinit"]
+- !private ["11Cartography9DimensionV", "init"]
+- !private ["11Cartography4EdgeV", "deinit"]
+- !private ["11Cartography4EdgeV", "init"]
+- !private ["11Cartography5EdgesV", "init"]
+- !private ["s9EquatableP", "bottom"]
+- !private ["s9EquatableP", "bottomMargin"]
+- !private ["s9EquatableP", "centerX"]
+- !private ["s9EquatableP", "centerXWithinMargins"]
+- !private ["s9EquatableP", "centerY"]
+- !private ["s9EquatableP", "centerYWithinMargins"]
+- !private ["s9EquatableP", "firstBaseline"]
+- !private ["s9EquatableP", "height"]
+- !private ["s9EquatableP", "lastBaseline"]
+- !private ["s9EquatableP", "leading"]
+- !private ["s9EquatableP", "leadingMargin"]
+- !private ["s9EquatableP", "left"]
+- !private ["s9EquatableP", "leftMargin"]
+- !private ["s9EquatableP", "right"]
+- !private ["s9EquatableP", "rightMargin"]
+- !private ["s9EquatableP", "superview"]
+- !private ["s9EquatableP", "top"]
+- !private ["s9EquatableP", "topMargin"]
+- !private ["s9EquatableP", "trailing"]
+- !private ["s9EquatableP", "trailingMargin"]
+- !private ["s9EquatableP", "width"]
+- !private ["s8HashableP", "bottom"]
+- !private ["s8HashableP", "bottomMargin"]
+- !private ["s8HashableP", "centerX"]
+- !private ["s8HashableP", "centerXWithinMargins"]
+- !private ["s8HashableP", "centerY"]
+- !private ["s8HashableP", "centerYWithinMargins"]
+- !private ["s8HashableP", "firstBaseline"]
+- !private ["s8HashableP", "height"]
+- !private ["s8HashableP", "lastBaseline"]
+- !private ["s8HashableP", "leading"]
+- !private ["s8HashableP", "leadingMargin"]
+- !private ["s8HashableP", "left"]
+- !private ["s8HashableP", "leftMargin"]
+- !private ["s8HashableP", "right"]
+- !private ["s8HashableP", "rightMargin"]
+- !private ["s8HashableP", "superview"]
+- !private ["s8HashableP", "top"]
+- !private ["s8HashableP", "topMargin"]
+- !private ["s8HashableP", "trailing"]
+- !private ["s8HashableP", "trailingMargin"]
+- !private ["s8HashableP", "width"]
+- ["11Cartography11LayoutProxyV", "Context"]
+- ["11Cartography11LayoutProxyV", "Dimension"]
+- ["11Cartography11LayoutProxyV", "Edge"]
+- ["11Cartography11LayoutProxyV", "Edges"]
+- ["11Cartography11LayoutProxyV", "LayoutProxy"]
+- ["11Cartography11LayoutProxyV", "Point"]
+- ["11Cartography11LayoutProxyV", "Size"]
+- ["11Cartography11LayoutProxyV", "View"]
+- ["11Cartography11LayoutProxyV", "baseline"]
+- ["11Cartography11LayoutProxyV", "bottom"]
+- ["11Cartography11LayoutProxyV", "bottomMargin"]
+- ["11Cartography11LayoutProxyV", "center"]
+- ["11Cartography11LayoutProxyV", "centerWithinMargins"]
+- ["11Cartography11LayoutProxyV", "centerX"]
+- ["11Cartography11LayoutProxyV", "centerXWithinMargins"]
+- ["11Cartography11LayoutProxyV", "centerY"]
+- ["11Cartography11LayoutProxyV", "centerYWithinMargins"]
+- ["11Cartography11LayoutProxyV", "context"]
+- ["11Cartography11LayoutProxyV", "edges"]
+- ["11Cartography11LayoutProxyV", "edgesWithinMargins"]
+- ["11Cartography11LayoutProxyV", "firstBaseline"]
+- ["11Cartography11LayoutProxyV", "height"]
+- ["11Cartography11LayoutProxyV", "init"]
+- ["11Cartography11LayoutProxyV", "lastBaseline"]
+- ["11Cartography11LayoutProxyV", "leading"]
+- ["11Cartography11LayoutProxyV", "leadingMargin"]
+- ["11Cartography11LayoutProxyV", "left"]
+- ["11Cartography11LayoutProxyV", "leftMargin"]
+- ["11Cartography11LayoutProxyV", "right"]
+- ["11Cartography11LayoutProxyV", "rightMargin"]
+- ["11Cartography11LayoutProxyV", "size"]
+- ["11Cartography11LayoutProxyV", "superview"]
+- ["11Cartography11LayoutProxyV", "top"]
+- ["11Cartography11LayoutProxyV", "topMargin"]
+- ["11Cartography11LayoutProxyV", "trailing"]
+- ["11Cartography11LayoutProxyV", "trailingMargin"]
+- ["11Cartography11LayoutProxyV", "view"]
+- ["11Cartography11LayoutProxyV", "width"]
+- !private ["11Cartography14MultiplicationP", "init"]
+- !private ["So8NSCodingP", "superview"]
+- !private ["SC17NSLayoutAttributeO", "bottom"]
+- !private ["SC17NSLayoutAttributeO", "bottomMargin"]
+- !private ["SC17NSLayoutAttributeO", "centerX"]
+- !private ["SC17NSLayoutAttributeO", "centerXWithinMargins"]
+- !private ["SC17NSLayoutAttributeO", "centerY"]
+- !private ["SC17NSLayoutAttributeO", "centerYWithinMargins"]
+- !private ["SC17NSLayoutAttributeO", "firstBaseline"]
+- !private ["SC17NSLayoutAttributeO", "height"]
+- !private ["SC17NSLayoutAttributeO", "lastBaseline"]
+- !private ["SC17NSLayoutAttributeO", "leading"]
+- !private ["SC17NSLayoutAttributeO", "leadingMargin"]
+- !private ["SC17NSLayoutAttributeO", "left"]
+- !private ["SC17NSLayoutAttributeO", "leftMargin"]
+- !private ["SC17NSLayoutAttributeO", "right"]
+- !private ["SC17NSLayoutAttributeO", "rightMargin"]
+- !private ["SC17NSLayoutAttributeO", "top"]
+- !private ["SC17NSLayoutAttributeO", "topMargin"]
+- !private ["SC17NSLayoutAttributeO", "trailing"]
+- !private ["SC17NSLayoutAttributeO", "trailingMargin"]
+- !private ["SC17NSLayoutAttributeO", "width"]
+- !private ["So8NSObjectC", "superview"]
+- !private ["So16NSObjectProtocolP", "superview"]
+- !private ["11Cartography17NumericalEqualityP", "init"]
+- !private ["11Cartography19NumericalInequalityP", "init"]
+- !private ["11Cartography5PointV", "init"]
+- !private ["11Cartography8PropertyP", "init"]
+- !private ["s16RawRepresentableP", "bottom"]
+- !private ["s16RawRepresentableP", "bottomMargin"]
+- !private ["s16RawRepresentableP", "centerX"]
+- !private ["s16RawRepresentableP", "centerXWithinMargins"]
+- !private ["s16RawRepresentableP", "centerY"]
+- !private ["s16RawRepresentableP", "centerYWithinMargins"]
+- !private ["s16RawRepresentableP", "firstBaseline"]
+- !private ["s16RawRepresentableP", "height"]
+- !private ["s16RawRepresentableP", "lastBaseline"]
+- !private ["s16RawRepresentableP", "leading"]
+- !private ["s16RawRepresentableP", "leadingMargin"]
+- !private ["s16RawRepresentableP", "left"]
+- !private ["s16RawRepresentableP", "leftMargin"]
+- !private ["s16RawRepresentableP", "right"]
+- !private ["s16RawRepresentableP", "rightMargin"]
+- !private ["s16RawRepresentableP", "top"]
+- !private ["s16RawRepresentableP", "topMargin"]
+- !private ["s16RawRepresentableP", "trailing"]
+- !private ["s16RawRepresentableP", "trailingMargin"]
+- !private ["s16RawRepresentableP", "width"]
+- !private ["11Cartography24RelativeCompoundEqualityP", "init"]
+- !private ["11Cartography26RelativeCompoundInequalityP", "init"]
+- !private ["11Cartography16RelativeEqualityP", "init"]
+- !private ["11Cartography18RelativeInequalityP", "init"]
+- !private ["11Cartography4SizeV", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "superview"]
+- !private ["So12UIAppearanceP", "superview"]
+- !private ["So21UIAppearanceContainerP", "superview"]
+- !private ["So17UICoordinateSpaceP", "superview"]
+- !private ["So13UIDynamicItemP", "superview"]
+- !private ["So18UIFocusEnvironmentP", "superview"]
+- !private ["So11UIFocusItemP", "superview"]
+- !private ["So30UIPasteConfigurationSupportingP", "superview"]
+- !private ["So11UIResponderC", "superview"]
+- !private ["So30UIResponderStandardEditActionsP", "superview"]
+- !private ["So18UITraitEnvironmentP", "superview"]
+- !private ["So6UIViewC", "superview"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "superview"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "superview"]
+depends-nominal:
+- !private "11Cartography8AdditionP"
+- !private "So15CALayerDelegateP"
+- !private "s7CVarArgP"
+- !private "11Cartography8CompoundP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s23CustomStringConvertibleP"
+- !private "11Cartography9DimensionV"
+- !private "11Cartography4EdgeV"
+- !private "11Cartography5EdgesV"
+- !private "s9EquatableP"
+- !private "s8HashableP"
+- "11Cartography11LayoutProxyV"
+- !private "11Cartography14MultiplicationP"
+- !private "So8NSCodingP"
+- !private "SC17NSLayoutAttributeO"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "11Cartography17NumericalEqualityP"
+- !private "11Cartography19NumericalInequalityP"
+- !private "11Cartography5PointV"
+- !private "11Cartography8PropertyP"
+- !private "s16RawRepresentableP"
+- !private "11Cartography24RelativeCompoundEqualityP"
+- !private "11Cartography26RelativeCompoundInequalityP"
+- !private "11Cartography16RelativeEqualityP"
+- !private "11Cartography18RelativeInequalityP"
+- !private "11Cartography4SizeV"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/andretill/Downloads/Presentation-master/Example/Parallax/Pods/Target Support Files/Cartography/Cartography-umbrella.h"
+- "/Users/andretill/Downloads/Presentation-master/Example/Parallax/DerivedData/Parallax/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Cartography.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "f8198db0cb94397154f611839831dd2d"

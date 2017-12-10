@@ -1,0 +1,515 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TransitionAnimation"
+provides-nominal:
+- "12Presentation19TransitionAnimationC"
+provides-member:
+- ["12Presentation19TransitionAnimationC", ""]
+- ["12Presentation19TransitionAnimationC", "play"]
+- ["12Presentation19TransitionAnimationC", "playBack"]
+- ["12Presentation19TransitionAnimationC", "moveWith"]
+provides-dynamic-lookup:
+- "moveWith"
+- "play"
+- "playBack"
+depends-top-level:
+- !private "!"
+- !private "!="
+- !private "&&"
+- !private "*"
+- !private "+"
+- !private "-"
+- !private "<"
+- !private "=="
+- !private ">"
+- "Animatable"
+- !private "Array"
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "CGFloat"
+- "Content"
+- "NSObject"
+- "Position"
+- !private "StringLiteralType"
+- "TernaryPrecedence"
+- "TimeInterval"
+- "TransitionAnimation"
+- !private "UIView"
+depends-member:
+- !private ["12Presentation10AnimatableP", "UIView"]
+- !private ["12Presentation10AnimatableP", "animate"]
+- !private ["12Presentation10AnimatableP", "content"]
+- !private ["12Presentation10AnimatableP", "damping"]
+- !private ["12Presentation10AnimatableP", "destination"]
+- !private ["12Presentation10AnimatableP", "duration"]
+- !private ["12Presentation10AnimatableP", "initial"]
+- ["12Presentation10AnimatableP", "moveWith"]
+- ["12Presentation10AnimatableP", "play"]
+- ["12Presentation10AnimatableP", "playBack"]
+- !private ["12Presentation10AnimatableP", "played"]
+- !private ["12Presentation10AnimatableP", "reflective"]
+- !private ["12Presentation10AnimatableP", "start"]
+- !private ["12Presentation10AnimatableP", "startMirror"]
+- ["12Presentation10AnimatableP", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So7CALayerC", "animationKeys"]
+- !private ["So15CALayerDelegateP", "animate"]
+- !private ["So15CALayerDelegateP", "bounds"]
+- !private ["So15CALayerDelegateP", "layer"]
+- !private ["So15CALayerDelegateP", "superview"]
+- !private ["So13CAMediaTimingP", "animationKeys"]
+- !private ["SC7CGPointV", "position"]
+- !private ["SC7CGPointV", "x"]
+- !private ["SC7CGPointV", "y"]
+- !private ["s7CVarArgP", "UIView"]
+- !private ["s7CVarArgP", "animate"]
+- !private ["s7CVarArgP", "animationKeys"]
+- !private ["s7CVarArgP", "bounds"]
+- !private ["s7CVarArgP", "content"]
+- !private ["s7CVarArgP", "damping"]
+- !private ["s7CVarArgP", "destination"]
+- !private ["s7CVarArgP", "duration"]
+- !private ["s7CVarArgP", "horizontalMirror"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "initial"]
+- !private ["s7CVarArgP", "layer"]
+- ["s7CVarArgP", "moveWith"]
+- !private ["s7CVarArgP", "originInFrame"]
+- ["s7CVarArgP", "play"]
+- ["s7CVarArgP", "playBack"]
+- !private ["s7CVarArgP", "played"]
+- !private ["s7CVarArgP", "position"]
+- !private ["s7CVarArgP", "positionCopy"]
+- !private ["s7CVarArgP", "reflective"]
+- !private ["s7CVarArgP", "start"]
+- !private ["s7CVarArgP", "startMirror"]
+- !private ["s7CVarArgP", "superview"]
+- !private ["s7CVarArgP", "view"]
+- !private ["s7CVarArgP", "xInFrame"]
+- !private ["s7CVarArgP", "yInFrame"]
+- ["s7CVarArgP", ""]
+- !private ["12Presentation7ContentC", "animate"]
+- !private ["12Presentation7ContentC", "position"]
+- !private ["12Presentation7ContentC", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "UIView"]
+- !private ["s28CustomDebugStringConvertibleP", "animate"]
+- !private ["s28CustomDebugStringConvertibleP", "animationKeys"]
+- !private ["s28CustomDebugStringConvertibleP", "bounds"]
+- !private ["s28CustomDebugStringConvertibleP", "content"]
+- !private ["s28CustomDebugStringConvertibleP", "damping"]
+- !private ["s28CustomDebugStringConvertibleP", "destination"]
+- !private ["s28CustomDebugStringConvertibleP", "duration"]
+- !private ["s28CustomDebugStringConvertibleP", "horizontalMirror"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "initial"]
+- !private ["s28CustomDebugStringConvertibleP", "layer"]
+- ["s28CustomDebugStringConvertibleP", "moveWith"]
+- !private ["s28CustomDebugStringConvertibleP", "originInFrame"]
+- ["s28CustomDebugStringConvertibleP", "play"]
+- ["s28CustomDebugStringConvertibleP", "playBack"]
+- !private ["s28CustomDebugStringConvertibleP", "played"]
+- !private ["s28CustomDebugStringConvertibleP", "position"]
+- !private ["s28CustomDebugStringConvertibleP", "positionCopy"]
+- !private ["s28CustomDebugStringConvertibleP", "reflective"]
+- !private ["s28CustomDebugStringConvertibleP", "start"]
+- !private ["s28CustomDebugStringConvertibleP", "startMirror"]
+- !private ["s28CustomDebugStringConvertibleP", "superview"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "x"]
+- !private ["s28CustomDebugStringConvertibleP", "xInFrame"]
+- !private ["s28CustomDebugStringConvertibleP", "y"]
+- !private ["s28CustomDebugStringConvertibleP", "yInFrame"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "position"]
+- !private ["s29CustomPlaygroundQuickLookableP", "x"]
+- !private ["s29CustomPlaygroundQuickLookableP", "y"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "position"]
+- !private ["s17CustomReflectableP", "x"]
+- !private ["s17CustomReflectableP", "y"]
+- !private ["s23CustomStringConvertibleP", "UIView"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "animate"]
+- !private ["s23CustomStringConvertibleP", "animationKeys"]
+- !private ["s23CustomStringConvertibleP", "bounds"]
+- !private ["s23CustomStringConvertibleP", "content"]
+- !private ["s23CustomStringConvertibleP", "damping"]
+- !private ["s23CustomStringConvertibleP", "destination"]
+- !private ["s23CustomStringConvertibleP", "duration"]
+- !private ["s23CustomStringConvertibleP", "horizontalMirror"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "initial"]
+- !private ["s23CustomStringConvertibleP", "layer"]
+- ["s23CustomStringConvertibleP", "moveWith"]
+- !private ["s23CustomStringConvertibleP", "originInFrame"]
+- ["s23CustomStringConvertibleP", "play"]
+- ["s23CustomStringConvertibleP", "playBack"]
+- !private ["s23CustomStringConvertibleP", "played"]
+- !private ["s23CustomStringConvertibleP", "position"]
+- !private ["s23CustomStringConvertibleP", "positionCopy"]
+- !private ["s23CustomStringConvertibleP", "reflective"]
+- !private ["s23CustomStringConvertibleP", "start"]
+- !private ["s23CustomStringConvertibleP", "startMirror"]
+- !private ["s23CustomStringConvertibleP", "superview"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["s23CustomStringConvertibleP", "xInFrame"]
+- !private ["s23CustomStringConvertibleP", "yInFrame"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "position"]
+- !private ["s9DecodableP", "x"]
+- !private ["s9DecodableP", "y"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "position"]
+- !private ["s9EncodableP", "x"]
+- !private ["s9EncodableP", "y"]
+- !private ["s9EquatableP", "UIView"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "allowUserInteraction"]
+- !private ["s9EquatableP", "animate"]
+- !private ["s9EquatableP", "animationKeys"]
+- !private ["s9EquatableP", "beginFromCurrentState"]
+- !private ["s9EquatableP", "bounds"]
+- !private ["s9EquatableP", "content"]
+- !private ["s9EquatableP", "damping"]
+- !private ["s9EquatableP", "destination"]
+- !private ["s9EquatableP", "duration"]
+- !private ["s9EquatableP", "horizontalMirror"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "initial"]
+- !private ["s9EquatableP", "layer"]
+- ["s9EquatableP", "moveWith"]
+- !private ["s9EquatableP", "originInFrame"]
+- ["s9EquatableP", "play"]
+- ["s9EquatableP", "playBack"]
+- !private ["s9EquatableP", "played"]
+- !private ["s9EquatableP", "position"]
+- !private ["s9EquatableP", "positionCopy"]
+- !private ["s9EquatableP", "reflective"]
+- !private ["s9EquatableP", "start"]
+- !private ["s9EquatableP", "startMirror"]
+- !private ["s9EquatableP", "superview"]
+- !private ["s9EquatableP", "view"]
+- !private ["s9EquatableP", "x"]
+- !private ["s9EquatableP", "xInFrame"]
+- !private ["s9EquatableP", "y"]
+- !private ["s9EquatableP", "yInFrame"]
+- ["s9EquatableP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "allowUserInteraction"]
+- !private ["s25ExpressibleByArrayLiteralP", "beginFromCurrentState"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "UIView"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "animate"]
+- !private ["s8HashableP", "animationKeys"]
+- !private ["s8HashableP", "bounds"]
+- !private ["s8HashableP", "content"]
+- !private ["s8HashableP", "damping"]
+- !private ["s8HashableP", "destination"]
+- !private ["s8HashableP", "duration"]
+- !private ["s8HashableP", "horizontalMirror"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "initial"]
+- !private ["s8HashableP", "layer"]
+- ["s8HashableP", "moveWith"]
+- !private ["s8HashableP", "originInFrame"]
+- ["s8HashableP", "play"]
+- ["s8HashableP", "playBack"]
+- !private ["s8HashableP", "played"]
+- !private ["s8HashableP", "position"]
+- !private ["s8HashableP", "positionCopy"]
+- !private ["s8HashableP", "reflective"]
+- !private ["s8HashableP", "start"]
+- !private ["s8HashableP", "startMirror"]
+- !private ["s8HashableP", "superview"]
+- !private ["s8HashableP", "view"]
+- !private ["s8HashableP", "xInFrame"]
+- !private ["s8HashableP", "yInFrame"]
+- ["s8HashableP", ""]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["So8NSCodingP", "animate"]
+- !private ["So8NSCodingP", "animationKeys"]
+- !private ["So8NSCodingP", "bounds"]
+- !private ["So8NSCodingP", "layer"]
+- !private ["So8NSCodingP", "superview"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "CGFloat"]
+- ["So8NSObjectC", "Content"]
+- ["So8NSObjectC", "Position"]
+- ["So8NSObjectC", "TimeInterval"]
+- !private ["So8NSObjectC", "UIView"]
+- ["So8NSObjectC", "animate"]
+- !private ["So8NSObjectC", "animationKeys"]
+- !private ["So8NSObjectC", "bounds"]
+- ["So8NSObjectC", "content"]
+- ["So8NSObjectC", "damping"]
+- ["So8NSObjectC", "destination"]
+- ["So8NSObjectC", "duration"]
+- !private ["So8NSObjectC", "horizontalMirror"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "initial"]
+- !private ["So8NSObjectC", "layer"]
+- ["So8NSObjectC", "moveWith"]
+- !private ["So8NSObjectC", "originInFrame"]
+- ["So8NSObjectC", "play"]
+- ["So8NSObjectC", "playBack"]
+- ["So8NSObjectC", "played"]
+- !private ["So8NSObjectC", "position"]
+- !private ["So8NSObjectC", "positionCopy"]
+- ["So8NSObjectC", "reflective"]
+- ["So8NSObjectC", "start"]
+- ["So8NSObjectC", "start.storage"]
+- ["So8NSObjectC", "startMirror"]
+- ["So8NSObjectC", "startMirror.storage"]
+- !private ["So8NSObjectC", "superview"]
+- !private ["So8NSObjectC", "view"]
+- !private ["So8NSObjectC", "xInFrame"]
+- !private ["So8NSObjectC", "yInFrame"]
+- ["So8NSObjectC", ""]
+- !private ["So16NSObjectProtocolP", "UIView"]
+- !private ["So16NSObjectProtocolP", "animate"]
+- !private ["So16NSObjectProtocolP", "animationKeys"]
+- !private ["So16NSObjectProtocolP", "bounds"]
+- !private ["So16NSObjectProtocolP", "content"]
+- !private ["So16NSObjectProtocolP", "damping"]
+- !private ["So16NSObjectProtocolP", "destination"]
+- !private ["So16NSObjectProtocolP", "duration"]
+- !private ["So16NSObjectProtocolP", "horizontalMirror"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "initial"]
+- !private ["So16NSObjectProtocolP", "layer"]
+- ["So16NSObjectProtocolP", "moveWith"]
+- !private ["So16NSObjectProtocolP", "originInFrame"]
+- ["So16NSObjectProtocolP", "play"]
+- ["So16NSObjectProtocolP", "playBack"]
+- !private ["So16NSObjectProtocolP", "played"]
+- !private ["So16NSObjectProtocolP", "position"]
+- !private ["So16NSObjectProtocolP", "positionCopy"]
+- !private ["So16NSObjectProtocolP", "reflective"]
+- !private ["So16NSObjectProtocolP", "start"]
+- !private ["So16NSObjectProtocolP", "startMirror"]
+- !private ["So16NSObjectProtocolP", "superview"]
+- !private ["So16NSObjectProtocolP", "view"]
+- !private ["So16NSObjectProtocolP", "xInFrame"]
+- !private ["So16NSObjectProtocolP", "yInFrame"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "animationKeys"]
+- !private ["s9OptionSetP", "allowUserInteraction"]
+- !private ["s9OptionSetP", "beginFromCurrentState"]
+- !private ["12Presentation8PositionC", "horizontalMirror"]
+- !private ["12Presentation8PositionC", "originInFrame"]
+- !private ["12Presentation8PositionC", "positionCopy"]
+- !private ["12Presentation8PositionC", "xInFrame"]
+- !private ["12Presentation8PositionC", "yInFrame"]
+- !private ["s16RawRepresentableP", "allowUserInteraction"]
+- !private ["s16RawRepresentableP", "beginFromCurrentState"]
+- !private ["s10SetAlgebraP", "allowUserInteraction"]
+- !private ["s10SetAlgebraP", "beginFromCurrentState"]
+- !private ["s12StaticStringV", "init"]
+- ["12Presentation19TransitionAnimationC", "Bool"]
+- ["12Presentation19TransitionAnimationC", "CGFloat"]
+- ["12Presentation19TransitionAnimationC", "Content"]
+- ["12Presentation19TransitionAnimationC", "Position"]
+- ["12Presentation19TransitionAnimationC", "TimeInterval"]
+- !private ["12Presentation19TransitionAnimationC", "UIView"]
+- !private ["12Presentation19TransitionAnimationC", "animate"]
+- !private ["12Presentation19TransitionAnimationC", "content"]
+- !private ["12Presentation19TransitionAnimationC", "damping"]
+- ["12Presentation19TransitionAnimationC", "deinit"]
+- !private ["12Presentation19TransitionAnimationC", "destination"]
+- !private ["12Presentation19TransitionAnimationC", "duration"]
+- ["12Presentation19TransitionAnimationC", "init"]
+- !private ["12Presentation19TransitionAnimationC", "initial"]
+- ["12Presentation19TransitionAnimationC", "moveWith"]
+- ["12Presentation19TransitionAnimationC", "play"]
+- ["12Presentation19TransitionAnimationC", "playBack"]
+- !private ["12Presentation19TransitionAnimationC", "played"]
+- ["12Presentation19TransitionAnimationC", "reflective"]
+- ["12Presentation19TransitionAnimationC", "start"]
+- !private ["12Presentation19TransitionAnimationC", "start.storage"]
+- ["12Presentation19TransitionAnimationC", "startMirror"]
+- !private ["12Presentation19TransitionAnimationC", "startMirror.storage"]
+- !private ["So29UIAccessibilityIdentificationP", "animate"]
+- !private ["So29UIAccessibilityIdentificationP", "bounds"]
+- !private ["So29UIAccessibilityIdentificationP", "layer"]
+- !private ["So29UIAccessibilityIdentificationP", "superview"]
+- !private ["So12UIAppearanceP", "animate"]
+- !private ["So12UIAppearanceP", "bounds"]
+- !private ["So12UIAppearanceP", "layer"]
+- !private ["So12UIAppearanceP", "superview"]
+- !private ["So21UIAppearanceContainerP", "animate"]
+- !private ["So21UIAppearanceContainerP", "bounds"]
+- !private ["So21UIAppearanceContainerP", "layer"]
+- !private ["So21UIAppearanceContainerP", "superview"]
+- !private ["So17UICoordinateSpaceP", "animate"]
+- !private ["So17UICoordinateSpaceP", "bounds"]
+- !private ["So17UICoordinateSpaceP", "layer"]
+- !private ["So17UICoordinateSpaceP", "superview"]
+- !private ["So13UIDynamicItemP", "animate"]
+- !private ["So13UIDynamicItemP", "bounds"]
+- !private ["So13UIDynamicItemP", "layer"]
+- !private ["So13UIDynamicItemP", "superview"]
+- !private ["So18UIFocusEnvironmentP", "animate"]
+- !private ["So18UIFocusEnvironmentP", "bounds"]
+- !private ["So18UIFocusEnvironmentP", "layer"]
+- !private ["So18UIFocusEnvironmentP", "superview"]
+- !private ["So11UIFocusItemP", "animate"]
+- !private ["So11UIFocusItemP", "bounds"]
+- !private ["So11UIFocusItemP", "layer"]
+- !private ["So11UIFocusItemP", "superview"]
+- !private ["So30UIPasteConfigurationSupportingP", "animate"]
+- !private ["So30UIPasteConfigurationSupportingP", "bounds"]
+- !private ["So30UIPasteConfigurationSupportingP", "layer"]
+- !private ["So30UIPasteConfigurationSupportingP", "superview"]
+- !private ["So11UIResponderC", "animate"]
+- !private ["So11UIResponderC", "bounds"]
+- !private ["So11UIResponderC", "layer"]
+- !private ["So11UIResponderC", "superview"]
+- !private ["So30UIResponderStandardEditActionsP", "animate"]
+- !private ["So30UIResponderStandardEditActionsP", "bounds"]
+- !private ["So30UIResponderStandardEditActionsP", "layer"]
+- !private ["So30UIResponderStandardEditActionsP", "superview"]
+- !private ["So18UITraitEnvironmentP", "animate"]
+- !private ["So18UITraitEnvironmentP", "bounds"]
+- !private ["So18UITraitEnvironmentP", "layer"]
+- !private ["So18UITraitEnvironmentP", "superview"]
+- !private ["So6UIViewC", "animate"]
+- !private ["So6UIViewC", "bounds"]
+- !private ["So6UIViewC", "layer"]
+- !private ["So6UIViewC", "superview"]
+- !private ["SC22UIViewAnimationOptionsV", "allowUserInteraction"]
+- !private ["SC22UIViewAnimationOptionsV", "beginFromCurrentState"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "animate"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "bounds"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "layer"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "superview"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "animate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "animationKeys"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bounds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "content"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "damping"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "destination"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "duration"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "horizontalMirror"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "initial"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "layer"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "moveWith"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "originInFrame"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "play"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "playBack"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "played"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "position"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "positionCopy"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "reflective"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "start"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "startMirror"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "superview"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "xInFrame"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "yInFrame"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "position"]
+- !private ["s21_ObjectiveCBridgeableP", "x"]
+- !private ["s21_ObjectiveCBridgeableP", "y"]
+depends-nominal:
+- "12Presentation10AnimatableP"
+- !private "Sb"
+- !private "So7CALayerC"
+- !private "So15CALayerDelegateP"
+- !private "So13CAMediaTimingP"
+- !private "SC7CGPointV"
+- "s7CVarArgP"
+- !private "12Presentation7ContentC"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "So8NSCodingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "s9OptionSetP"
+- !private "12Presentation8PositionC"
+- !private "s16RawRepresentableP"
+- !private "s10SetAlgebraP"
+- !private "s12StaticStringV"
+- "12Presentation19TransitionAnimationC"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- !private "SC22UIViewAnimationOptionsV"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Users/andretill/Downloads/Presentation-master/Example/Parallax/DerivedData/Parallax/Build/Products/Debug-iphoneos/Pages/Pages.framework/Modules/Pages.swiftmodule/arm64.swiftmodule"
+- "/Users/andretill/Downloads/Presentation-master/Example/Parallax/DerivedData/Parallax/Build/Products/Debug-iphoneos/Cartography/Cartography.framework/Modules/Cartography.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/andretill/Downloads/Presentation-master/Example/Parallax/Pods/Target Support Files/Presentation/Presentation-umbrella.h"
+- "/Users/andretill/Downloads/Presentation-master/Example/Parallax/Pods/Target Support Files/Pages/Pages-umbrella.h"
+- "/Users/andretill/Downloads/Presentation-master/Example/Parallax/Pods/Target Support Files/Cartography/Cartography-umbrella.h"
+- "/Users/andretill/Downloads/Presentation-master/Example/Parallax/DerivedData/Parallax/Build/Products/Debug-iphoneos/Pages/Pages.framework/Headers/Pages-Swift.h"
+- "/Users/andretill/Downloads/Presentation-master/Example/Parallax/DerivedData/Parallax/Build/Products/Debug-iphoneos/Cartography/Cartography.framework/Headers/Cartography-Swift.h"
+- "/Users/andretill/Downloads/Presentation-master/Example/Parallax/DerivedData/Parallax/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Presentation.build/unextended-module.modulemap"
+- "/Users/andretill/Downloads/Presentation-master/Example/Parallax/DerivedData/Parallax/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Pages.build/module.modulemap"
+- "/Users/andretill/Downloads/Presentation-master/Example/Parallax/DerivedData/Parallax/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Cartography.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "3d5b0b8c5cf47c8c63f5b98b7e6c0509"

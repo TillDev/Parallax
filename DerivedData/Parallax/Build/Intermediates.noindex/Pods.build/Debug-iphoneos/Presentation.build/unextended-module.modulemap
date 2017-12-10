@@ -1,0 +1,10 @@
+framework module Presentation {
+  umbrella header "Presentation-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module Presentation.__Swift {
+    exclude header "Presentation-Swift.h"
+}

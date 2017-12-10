@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "6a39e3549044893bd255cb0a32f92b12"
+build_time: [1512921210, 351381000]
+inputs:
+  "/Users/andretill/Downloads/Presentation-master/Example/Parallax/Parallax/ViewController.swift": !dirty [1506945744, 0]
+  "/Users/andretill/Downloads/Presentation-master/Example/Parallax/Parallax/AppDelegate.swift": !dirty [1506945744, 0]
